@@ -1,2 +1,2 @@
-# terraform-pager-duty-schedule
+# terraform-pagerduty-schedule
 Demo of PagerDuty Scheduling and escalation policy
